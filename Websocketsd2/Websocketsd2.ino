@@ -3,8 +3,8 @@
 #include <WebSocketsServer.h>
 #include <Hash.h>
 WebSocketsServer webSocket = WebSocketsServer(81);
-const char* ssid     = "TP-LINK_E9A60A";
-const char* password = "10650448";
+const char* ssid     = "WIFI NAME";
+const char* password = "WIFI PASSWORD";
 const int bluePin = 13;
 const int redPin = 15;
 const int greenPin = 12;
